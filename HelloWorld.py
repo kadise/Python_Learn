@@ -10,5 +10,6 @@ import os
 
 
 str = "abs"
-print(str + "world")
+change = "change"
+print(str + "world" + change)
 print("github.com")

@@ -8,3 +8,7 @@
 import os
 
 print("main")
+def foo():
+	print("in foo")
+
+foo()
