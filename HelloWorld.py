@@ -4,6 +4,7 @@
 # @Author  : Lock (myselfon@gmailcom)
 # @Link    : https://github.com/kadise/Python_Learn.git
 # @Version : $Id$
+# @Comments: Add from github
 
 import os
 
