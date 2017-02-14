@@ -14,9 +14,3 @@ change = "change"
 //print(str + "world" + change)
 print("github.com")
 
-<<<<<<< Updated upstream
-=======
-print 'hello\n world!'
-print 'hello'
-print 'world'
->>>>>>> Stashed changes
